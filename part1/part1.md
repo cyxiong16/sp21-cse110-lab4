@@ -1,4 +1,4 @@
-Part 1a
+## Part 1a
 1. values added: 20
 2. final result: 20
 3. values added: 20
@@ -9,7 +9,7 @@ Part 1a
 6. error: Uncaught TypeError: Assignment to constant variable.
    The code will return an error because the variable 'result' is const, but we are trying to modify it in line 7.
 
-Part 1b
+## Part 1b
 1. 3 will be logged to console.
 2. 150 will be logged to console.
 3. 150 will be logged to console.
